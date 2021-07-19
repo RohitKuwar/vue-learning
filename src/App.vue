@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Conditional from './components/ListRendering.vue'
+import Conditional from './components/FormHandling.vue'
 
 export default {
   name: 'App',
